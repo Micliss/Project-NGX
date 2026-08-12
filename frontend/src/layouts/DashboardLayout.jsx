@@ -4,7 +4,7 @@ function DashboardLayout() {
   return (
     <div className="dashboard-layout">
       <aside className="sidebar">
-        <div className="logo">NGX</div>
+        <div className="logo">NGX</div> 
 
         <nav>
           <Link to="/dashboard">Dashboard</Link>
